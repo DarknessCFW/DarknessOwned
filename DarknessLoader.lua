@@ -16,7 +16,7 @@ elseif game.PlaceId == 15117193943 then
 elseif game.PlaceId == 14762790937 then
     print("Anime Waves Simulator")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/DarknessCFW/DarknessOwned/main/Ondinha.lua"))()
-elseif game.PlaceId == 9144187696 then
+elseif game.PlaceId == 13988823284 then
     print("Fighting Legends")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/DarknessCFW/DarknessOwned/main/Espadinha.lua"))()
 else
