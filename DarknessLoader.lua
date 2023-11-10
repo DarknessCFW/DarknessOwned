@@ -4,6 +4,9 @@ if game.PlaceId == 14565278851 then
 elseif game.PlaceId == 15084364495 then
     print("Bike Race Simulatort")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/DarknessCFW/DarknessOwned/main/Bicicleta.lua"))()
+elseif game.PlaceId == 15107361788 then
+    print("Toilet Fighting Simulator")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DarknessCFW/DarknessOwned/main/toiletsimu.lua"))()
 elseif game.PlaceId == 14368340794 then
     print("Swim Race Simulator")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/DarknessCFW/DarknessOwned/main/nadar.lua"))()
